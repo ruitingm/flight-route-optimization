@@ -1,0 +1,43 @@
+﻿avg_dijkstra_time,avg_a_star_time,avg_dijkstra_path,avg_a_star_path,avg_dijkstra_duration,avg_a_star_duration
+0.00011817,0.000169098,"Los Angeles, Dallas, New York ","Los Angeles, Dallas, New York",254,254
+0.000167451,9.53E-05,"Los Angeles, Dallas, Boston ","Los Angeles, Dallas, Boston",263,263
+0.000231919,0.000156329,"Los Angeles, Dallas, Houston, Washington, D.C. ","Los Angeles, Dallas, Chicago, Washington, D.C.",284,294
+0.00015517,0.000102084,"Los Angeles, Dallas, Philadelphia ","Los Angeles, Dallas, Philadelphia",252,252
+0.000123951,9.32E-05,"Los Angeles, Dallas, Miami ","Los Angeles, Dallas, Miami",215,215
+0.000134971,0.000121682,"Los Angeles, Dallas, Houston, Charleston ","Los Angeles, Dallas, Houston, Charleston",262,262
+0.000123479,0.000093112,"Los Angeles, Dallas, Atlanta ","Los Angeles, Dallas, Atlanta",181,181
+0.0001299,0.000109727,"Las Vegas, Los Angeles, Dallas, New York ","Las Vegas, St. Louis, New York",320,338
+0.000138385,0.000159164,"Las Vegas, Los Angeles, Dallas, Boston ","Las Vegas, Chicago, Boston",329,356
+0.000145443,0.000117083,"Las Vegas, Chicago, Washington, D.C. ","Las Vegas, Chicago, Washington, D.C.",325,325
+0.000130835,0.000132346,"Las Vegas, Los Angeles, Dallas, Philadelphia ","Las Vegas, Chicago, Philadelphia",318,337
+0.000129061,9.26E-05,"Las Vegas, Los Angeles, Dallas, Miami ","Las Vegas, Houston, Miami",281,328
+0.000250182,0.000130718,"Las Vegas, Houston, Charleston ","Las Vegas, Houston, Charleston",327,327
+0.00010134,0.000140746,"Las Vegas, Los Angeles, Dallas, Atlanta ","Las Vegas, Houston, Atlanta",247,290
+0.000107994,8.27E-05,"Seattle, Minneapolis, New York ","Seattle, Minneapolis, New York",345,345
+0.000111506,6.75E-05,"Seattle, Minneapolis, Boston ","Seattle, Minneapolis, Boston",358,358
+0.000112462,9.24E-05,"Seattle, Chicago, Washington, D.C. ","Seattle, Chicago, Washington, D.C.",345,345
+0.000108132,8.90E-05,"Seattle, Minneapolis, Philadelphia ","Seattle, Minneapolis, Philadelphia",343,343
+0.000116766,8.31E-05,"Seattle, Los Angeles, Dallas, Miami ","Seattle, Dallas, Miami",363,385
+0.000115724,0.000111966,"Seattle, Chicago, Charleston ","Seattle, Chicago, Charleston",370,370
+0.000100513,0.000155723,"Seattle, Los Angeles, Dallas, Atlanta ","Seattle, Minneapolis, Atlanta",329,338
+0.000139313,7.32E-05,"San Diego, Los Angeles, Dallas, New York ","San Diego, Chicago, New York",319,371
+0.000127144,0.000069747,"San Diego, Los Angeles, Dallas, Boston ","San Diego, Chicago, Boston",328,383
+0.000127106,6.95E-05,"San Diego, Los Angeles, Dallas, Houston, Washington, D.C. ","San Diego, Chicago, Washington, D.C.",349,352
+0.000117214,6.93E-05,"San Diego, Los Angeles, Dallas, Philadelphia ","San Diego, Chicago, Philadelphia",317,364
+0.000125771,8.08E-05,"San Diego, Los Angeles, Dallas, Miami ","San Diego, Houston, Miami",280,340
+0.0001471,0.000113232,"San Diego, Los Angeles, Dallas, Houston, Charleston ","San Diego, Houston, Charleston",327,339
+0.000123434,0.00010073,"San Diego, Los Angeles, Dallas, Atlanta ","San Diego, Houston, Atlanta",246,302
+0.000131872,9.89E-05,"Denver, St. Louis, New York ","Denver, St. Louis, New York",266,266
+0.000123682,7.04E-05,"Denver, Kansas City, Boston ","Denver, Chicago, Boston",283,286
+0.000108426,0.000109499,"Denver, Chicago, Washington, D.C. ","Denver, Chicago, Washington, D.C.",255,255
+0.00011807,0.000163701,"Denver, Chicago, Philadelphia ","Denver, Chicago, Philadelphia",267,267
+0.000141716,0.000146985,"Denver, Dallas, Miami ","Denver, Dallas, Miami",285,285
+0.000128925,0.000124433,"Denver, Chicago, Charleston ","Denver, Chicago, Charleston",280,280
+0.000112946,0.000121641,"Denver, Dallas, Atlanta ","Denver, Dallas, Atlanta",251,251
+0.000134802,7.65E-05,"Portland, Minneapolis, New York ","Portland, Chicago, New York",349,356
+0.000168958,0.000110829,"Portland, Minneapolis, Boston ","Portland, Chicago, Boston",362,368
+0.000203793,0.000101035,"Portland, Chicago, Washington, D.C. ","Portland, Chicago, Washington, D.C.",337,337
+0.000122249,7.94E-05,"Portland, Minneapolis, Philadelphia ","Portland, Chicago, Philadelphia",347,349
+0.000164516,0.000101793,"Portland, Los Angeles, Dallas, Miami ","Portland, Dallas, Miami",345,385
+0.000163531,9.56E-05,"Portland, Chicago, Charleston ","Portland, Chicago, Charleston",362,362
+0.000118215,0.000108488,"Portland, Los Angeles, Dallas, Atlanta ","Portland, Minneapolis, Atlanta",311,342

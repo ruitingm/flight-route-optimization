@@ -1,0 +1,44 @@
+﻿avg_dijkstra_time,avg_a_star_time,avg_dijkstra_path,avg_a_star_path,avg_dijkstra_weight,avg_a_star_weight
+0.00011188,0.000149086,"Los Angeles, Dallas, New York ","Los Angeles, Dallas, New York",296.375,296.375
+0.000119789,7.33E-05,"Los Angeles, Minneapolis, Boston ","Los Angeles, Minneapolis, Boston",320.97,320.97
+0.000140891,0.000239995,"Los Angeles, Dallas, Chicago, Washington, D.C. ","Los Angeles, Dallas, Chicago, Washington, D.C.",430.205,430.205
+0.000146973,9.41E-05,"Los Angeles, Dallas, Philadelphia ","Los Angeles, Dallas, Philadelphia",287.075,287.075
+0.000129156,8.87E-05,"Los Angeles, Dallas, Miami ","Los Angeles, Dallas, Miami",273.85,273.85
+0.00015008,0.000161459,"Los Angeles, Dallas, New York, Charleston ","Los Angeles, Dallas, New York, Charleston",408.185,408.185
+0.000107727,8.26E-05,"Los Angeles, Dallas, Atlanta ","Los Angeles, Dallas, Atlanta",229.035,229.035
+0.000147586,9.16E-05,"Las Vegas, Minneapolis, New York ","Las Vegas, Minneapolis, New York",302.32,302.32
+0.00023056,0.000101523,"Las Vegas, Minneapolis, Boston ","Las Vegas, Minneapolis, Boston",304.82,304.82
+0.000136008,0.000174103,"Las Vegas, Chicago, Washington, D.C. ","Las Vegas, Chicago, Washington, D.C.",414.535,414.535
+0.000119133,0.000152144,"Las Vegas, Minneapolis, Philadelphia ","Las Vegas, Minneapolis, Philadelphia",284.16,284.16
+0.000125682,9.18E-05,"Las Vegas, Dallas, Miami ","Las Vegas, Dallas, Miami",298.56,298.56
+0.000144162,0.000165038,"Las Vegas, Minneapolis, New York, Charleston ","Las Vegas, Minneapolis, New York, Charleston",414.13,414.13
+0.000114694,0.000105927,"Las Vegas, Dallas, Atlanta ","Las Vegas, Dallas, Atlanta",253.745,253.745
+0.000129697,9.49E-05,"Seattle, Minneapolis, New York ","Seattle, Minneapolis, New York",299.645,299.645
+0.000127203,8.91E-05,"Seattle, Minneapolis, Boston ","Seattle, Minneapolis, Boston",302.145,302.145
+0.000135422,0.000135717,"Seattle, Minneapolis, New York, Washington, D.C. ","Seattle, Minneapolis, New York, Washington, D.C.",446.73,446.73
+0.000120749,0.000112727,"Seattle, Minneapolis, Philadelphia ","Seattle, Minneapolis, Philadelphia",281.485,281.485
+0.000153608,0.000127718,"Seattle, Minneapolis, Miami ","Seattle, Minneapolis, Miami",318.82,318.82
+0.000130973,0.000172122,"Seattle, Minneapolis, New York, Charleston ","Seattle, Minneapolis, New York, Charleston",411.455,411.455
+0.000110316,8.43E-05,"Seattle, Minneapolis, Atlanta ","Seattle, Minneapolis, Atlanta",262.045,262.045
+0.000137582,9.88E-05,"San Diego, Minneapolis, New York ","San Diego, Minneapolis, New York",316.82,316.82
+0.000129738,8.44E-05,"San Diego, Minneapolis, Boston ","San Diego, Minneapolis, Boston",319.32,319.32
+0.000144951,0.000161514,"San Diego, Minneapolis, New York, Washington, D.C. ","San Diego, Minneapolis, New York, Washington, D.C.",463.905,463.905
+0.000117047,8.99E-05,"San Diego, Minneapolis, Philadelphia ","San Diego, Minneapolis, Philadelphia",298.66,298.66
+0.000130961,8.38E-05,"San Diego, Minneapolis, Miami ","San Diego, Dallas, Houston, Miami",335.995,402.53
+0.000136678,0.000162604,"San Diego, Minneapolis, New York, Charleston ","San Diego, Minneapolis, New York, Charleston",428.63,428.63
+0.000118158,8.53E-05,"San Diego, Minneapolis, Atlanta ","San Diego, Minneapolis, Atlanta",279.22,279.22
+0.000116093,8.74E-05,"Denver, Minneapolis, New York ","Denver, Minneapolis, New York",245.82,245.82
+0.000150132,8.56E-05,"Denver, Minneapolis, Boston ","Denver, Minneapolis, Boston",248.32,248.32
+0.000154474,0.000140302,"Denver, Minneapolis, New York, Washington, D.C. ","Denver, Minneapolis, New York, Washington, D.C.",392.905,392.905
+0.000111759,8.56E-05,"Denver, Minneapolis, Philadelphia ","Denver, Minneapolis, Philadelphia",227.66,227.66
+0.000127966,8.27E-05,"Denver, Minneapolis, Miami ","Denver, Dallas, Miami",264.995,294.26
+0.00030066,0.000152223,"Denver, Minneapolis, New York, Charleston ","Denver, Minneapolis, New York, Charleston",357.63,357.63
+0.000108256,0.000107925,"Denver, Minneapolis, Atlanta ","Denver, Minneapolis, Atlanta",208.22,208.22
+0.000121536,9.75E-05,"Portland, Minneapolis, New York ","Portland, Minneapolis, New York",297.145,297.145
+0.000142035,8.97E-05,"Portland, Minneapolis, Boston ","Portland, Minneapolis, Boston",299.645,299.645
+0.000261192,0.000149875,"Portland, Minneapolis, New York, Washington, D.C. ","Portland, Minneapolis, New York, Washington, D.C.",444.23,444.23
+0.000119555,7.14E-05,"Portland, Minneapolis, Philadelphia ","Portland, Minneapolis, Philadelphia",278.985,278.985
+0.000130117,0.000133259,"Portland, Minneapolis, Miami ","Portland, Minneapolis, Miami",316.32,316.32
+0.000163159,0.00014493,"Portland, Minneapolis, New York, Charleston ","Portland, Minneapolis, New York, Charleston",408.955,408.955
+0.000115981,8.54E-05,"Portland, Minneapolis, Atlanta ","Portland, Minneapolis, Atlanta",259.545,259.545
+,,,,,
